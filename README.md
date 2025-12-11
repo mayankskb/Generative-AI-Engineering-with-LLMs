@@ -10,7 +10,7 @@ Below are links to the main folders in this repository. Click the folder name to
 - [03. Generative AI Language Modeling with Transformers](https://github.com/mayankskb/Generative-AI-Engineering-with-LLMs/tree/main/03.%20Generative%20AI%20Language%20Modeling%20with%20Transformers)
 - [04. Generative AI Engineering and Fine-Tuning Transformers](https://github.com/mayankskb/Generative-AI-Engineering-with-LLMs/tree/main/04.%20Generative%20AI%20Engineering%20and%20Fine-Tuning%20Transformers)
 - [05. Generative AI Advance Fine-Tuning for LLMs](https://github.com/mayankskb/Generative-AI-Engineering-with-LLMs/tree/main/05.%20Generative%20AI%20Advance%20Fine-Tuning%20for%20LLMs)
-- [06. Fundamentalof AI Agents Using RAG and LangChain](https://github.com/mayankskb/Generative-AI-Engineering-with-LLMs/tree/main/06.%20Fundamentalof%20AI%20Agents%20Using%20RAG%20and%20LangChain)
+- [06. Fundamentals of AI Agents Using RAG and LangChain](https://github.com/mayankskb/Generative-AI-Engineering-with-LLMs/tree/main/06.%20Fundamentals%20of%20AI%20Agents%20Using%20RAG%20and%20LangChain)
 
 ---
 
